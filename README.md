@@ -26,13 +26,7 @@ This project is a computer vision-based system for analyzing answer sheets. It c
 
 ### Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/answer-sheet-analysis.git
-cd answer-sheet-analysis
-```
-
-2. Install the required packages:
+Install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
@@ -100,13 +94,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### 安装说明
 
-1. 克隆仓库：
-```bash
-git clone https://github.com/yourusername/answer-sheet-analysis.git
-cd answer-sheet-analysis
-```
-
-2. 安装所需包：
+安装所需包：
 ```bash
 pip install -r requirements.txt
 ```
